@@ -1,3 +1,3 @@
 # Fluent Python notes
 
-TO BE EDITED.
+Notes and exercises.
