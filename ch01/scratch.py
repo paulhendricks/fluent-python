@@ -1,16 +1,9 @@
 #!/usr/bin/python3
-"""TO BE EDITED.
+"""TO BE EDITED
 
-Description.
-
-Available defs:
-- f: Description of .
-...
+Not Complete!
 """
 
 
-import numpy as np
-
-
-def hello_world():
+if __name__ == '__main__':
     print("Hello world!")
